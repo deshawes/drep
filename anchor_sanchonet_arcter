@@ -1,9 +1,11 @@
 {
   "ID": "123456789012345678901234",
   "Name": "drep_sanchonet_arcter",
-  "Competence": "sSPO",
-  "Identity": "http://linktr.ee/arcter",
-  "Interests": "Cardano Governance",
-  "VotingProcess": "will not abstain",
-  "Information": "https://t.me/Cardano_8BallStakePool"
+  "Code_of_Conduct": {
+    "Competence": "sSPO",
+    "Identity": "http://linktr.ee/arcter",
+    "Interests": "Cardano Governance",
+    "VotingProcess": "will not abstain",
+    "Information": "https://t.me/Cardano_8BallStakePool"
+  }
 }
