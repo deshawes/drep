@@ -51,33 +51,14 @@
   },
   "body": {
     "bio": {
-      "@value": "Not your average Drep"
+      "@value": ""
     },
     "dRepName": {
-      "@value": "turboDrep"
+      "@value": "turbodrep"
     },
     "email": {
-      "@value": "turbo.drep@gmail.com"
+      "@value": ""
     },
-    "references": [
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://metablx.com"
-        }
-      },
-      {
-        "@type": "Other",
-        "label": {
-          "@value": "Label"
-        },
-        "uri": {
-          "@value": "https://metablx.com"
-        }
-      }
-    ]
+    "references": []
   }
 }
