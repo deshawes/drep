@@ -51,10 +51,10 @@
   },
   "body": {
     "bio": {
-      "@value": "Not your average drep."
+      "@value": "Not your average Drep"
     },
     "dRepName": {
-      "@value": "TurboDrep"
+      "@value": "turboDrep"
     },
     "email": {
       "@value": "turbo.drep@gmail.com"
