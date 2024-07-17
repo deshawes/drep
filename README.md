@@ -1,2 +1,2 @@
 # drep
-Repository for 45B Drep Registration
+Repository for Drep Registration
