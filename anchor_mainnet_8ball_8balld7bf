@@ -1,0 +1,74 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP100:IdentityReference",
+            "Link": "CIP100:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": "CIP119:image",
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "givenName": "8Ball",
+    "motivations": "  To contribute to the Cardano blockchain by ensuring that every voice is heard, and to actively participate in its governance with my ADA holding.\n\n  I believe in the power of self-governance and the importance of collective decision-making.",
+    "objectives": "  To safeguard the long-term survival and prosperity of the Cardano blockchain by advocating for decentralized governance. My primary focus is on protecting the Treasury and ensuring the viability of small, professionally-run stake pools, which are critical to maintaining a decentralized network.\n\n  Additionally, I am committed to supporting the cardano development tools and popular applications on the blockchain, and to advancing the Cardano ecosystem through promotion and grassroots growth."
+    "paymentAddress": "addr1q9aa7ej2uddah8ylt4uwgngfal2j6p0fu3tldjaputrfya666fjrhrgsc0zsds39exxvl704twggqewlzsp203cz70qsp64g5u",
+    "qualifications": "  I have been deeply involved in the Cardano ecosystem since 2017 and am one of the original independent single Cardano stake pool operators from the Incentivized Test Net.\n\n  I operate with a commitment to decentralization, building all systems from source without reliance on common tools for installation or management, as the common approach exposes single points of failure within the ecosystem."
+    "references": [
+      {
+        "@type": "Other",
+        "label": "Label",
+        "uri": "https://x.com/arcter"
+      },
+      {
+        "@type": "Other",
+        "label": "Label",
+        "uri": "https://linktr.ee/arcter"
+      }
+    ]
+  }
+}
