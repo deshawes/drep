@@ -54,10 +54,10 @@
   "hashAlgorithm": "blake2b-256",
   "body": {
     "givenName": "8Ball",
-    "motivations": "  To contribute to the Cardano blockchain by ensuring that every voice is heard, and to actively participate in its governance with my ADA holding.\n\n  I believe in the power of self-governance and the importance of collective decision-making.",
-    "objectives": "  To safeguard the long-term survival and prosperity of the Cardano blockchain by advocating for decentralized governance. My primary focus is on protecting the Treasury and ensuring the viability of small, professionally-run stake pools, which are critical to maintaining a decentralized network.\n\n  Additionally, I am committed to supporting the cardano development tools and popular applications on the blockchain, and to advancing the Cardano ecosystem through promotion and grassroots growth."
+    "motivations": "To contribute to the Cardano blockchain by ensuring that every voice is heard, and to actively participate in its governance with my ADA holding. I believe in the power of self-governance and the importance of collective decision-making.",
+    "objectives": "To safeguard the long-term survival and prosperity of the Cardano blockchain by advocating for decentralized governance. My primary focus is on protecting the Treasury and ensuring the viability of small, professionally-run stake pools, which are critical to maintaining a decentralized network. Additionally, I am committed to supporting the Cardano development tools and popular applications on the blockchain, and to advancing the Cardano ecosystem through promotion and grassroots growth.",
     "paymentAddress": "addr1q9aa7ej2uddah8ylt4uwgngfal2j6p0fu3tldjaputrfya666fjrhrgsc0zsds39exxvl704twggqewlzsp203cz70qsp64g5u",
-    "qualifications": "  I have been deeply involved in the Cardano ecosystem since 2017 and am one of the original independent single Cardano stake pool operators from the Incentivized Test Net.\n\n  I operate with a commitment to decentralization, building all systems from source without reliance on common tools for installation or management, as the common approach exposes single points of failure within the ecosystem."
+    "qualifications": "I have been deeply involved in the Cardano ecosystem since 2017 and am one of the original independent single Cardano stake pool operators from the Incentivized Test Net. I operate with a commitment to decentralization, building all systems from source without reliance on common tools for installation or management, as the common approach exposes single points of failure within the ecosystem.",
     "references": [
       {
         "@type": "Other",
